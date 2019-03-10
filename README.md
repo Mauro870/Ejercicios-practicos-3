@@ -5,6 +5,7 @@ donde la suma de i+j+k no es igual a N. De modo que: 0 ≤ i ≤ X; 0 ≤ j ≤ 
 
 E2. Dado un string que contiene números enteros separados por espacio. Determine los números
 de la lista que son números “palíndromos”
+
 E3. Dada la siguiente lista de strings cuente cuántas veces se repite la palabra “Python” en toda
 la lista.
 
